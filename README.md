@@ -1,7 +1,7 @@
-## too lazy to keep activity on github. was only able to fill out the readme-profile 😴
+## too lazy to keep activity on github 😴
 
-<p align="center">
-  <img src="./dwight.gif" alt="Sublime's custom image"/>
+<p >
+  <img src="./dwight.gif" alt="Sublime's custom image" height=500/>
 </p>
 
 
